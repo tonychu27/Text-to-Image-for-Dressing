@@ -8,8 +8,9 @@ For Example
 ```
 pure color, denim, floral
 ```
-For Example
+
 Write the shape ypu want to shape.txt \
+For Example
 ```
 man, long-sleeves T-shirt, long pants, long jacket
 ```
